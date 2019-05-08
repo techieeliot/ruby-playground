@@ -11,7 +11,7 @@ The following page is code that I built as I learned Ruby on Rails.
 ### Languages and Frameworks
 		* HTML
 		* CSS
-    * Ruby on Rails
+		* Ruby on Rails
 
    
 ### API (none used)
